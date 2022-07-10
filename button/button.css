@@ -1,0 +1,10 @@
+button{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    background: rgb(224, 127, 127);
+    color: rgb(31, 31, 39);
+    border-radius: 5px;
+    display: inline-block;
+    
+}
